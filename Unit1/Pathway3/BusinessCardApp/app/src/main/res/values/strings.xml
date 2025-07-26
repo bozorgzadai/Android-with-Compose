@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="full_name">Ali Bozorgzad</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="phone_number">+98 (913) 648 2921</string>
+    <string name="social_media_handler">\@bozorgzadai</string>
+    <string name="email">bozorgzad.ai@gmail.com</string>
+</resources>
