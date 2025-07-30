@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="mona_lisa_title">Mona Lisa</string>
+    <string name="mona_lisa_artist">Leonardo da Vinci</string>
+    <string name="mona_lisa_year">(1503–1506)</string>
+
+    <string name="starry_night_title">The Starry Night</string>
+    <string name="starry_night_artist">Vincent van Gogh</string>
+    <string name="starry_night_year">(1889)</string>
+
+    <string name="girl_with_pearl_earring_title">Girl with a Pearl Earring</string>
+    <string name="girl_with_pearl_earring_artist">Johannes Vermeer</string>
+    <string name="girl_with_pearl_earring_year">(1665)</string>
+
+    <string name="great_wave_off_kanagawa_title">The Great Wave off Kanagawa</string>
+    <string name="great_wave_off_kanagawa_artist">Katsushika Hokusai</string>
+    <string name="great_wave_off_kanagawa_year">(1831)</string>
+</resources>
