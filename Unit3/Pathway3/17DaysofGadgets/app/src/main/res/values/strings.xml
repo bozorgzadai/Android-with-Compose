@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">17 Days of Gadgets</string>
+
+    <!-- Gadget Titles -->
+    <string name="gadget01">Ember Temperature Controlled Smart Mug</string>
+    <string name="gadget02">Oura Ring Gen3</string>
+    <string name="gadget03">Birdfy Smart Bird Feeder with Camera</string>
+    <string name="gadget04">Sunset Lamp Projection</string>
+    <string name="gadget05">Google Fitbit Versa 4</string>
+    <string name="gadget06">LARQ Self-Cleaning Water Bottle</string>
+    <string name="gadget07">Canon IVY 2 Mini Wireless Photo Printer</string>
+    <string name="gadget08">Beats Studio Pro x Kim Kardashian Headphones</string>
+    <string name="gadget09">JBL Go 3 Portable Speaker</string>
+    <string name="gadget10">Therabody SleepMask</string>
+    <string name="gadget11">Apple Air Tag (4-Pack)</string>
+    <string name="gadget12">Hatch Restore 2 Sunrise Alarm Clock</string>
+    <string name="gadget13">Rocketbook Smart Reusable Notebook</string>
+    <string name="gadget14">eufy BoostIQ RoboVac</string>
+    <string name="gadget15">SUPRUS Electric Lighter</string>
+    <string name="gadget16">5-in-1 Travel Charger</string>
+    <string name="gadget17">Rechargeable Hand Warmers</string>
+
+    <!-- Gadget Descriptions -->
+    <string name="desc01">Keeps your drink at the perfect temperature for up to 80 minutes using a smart heating system.</string>
+    <string name="desc02">A sleek ring that tracks sleep, heart rate, activity, and stress levels for better wellness insights.</string>
+    <string name="desc03">Watch birds from anywhere with this smart feeder that streams live video directly to your phone.</string>
+    <string name="desc04">Simulates a calming sunset or sunrise to improve mood and sleep in darker months.</string>
+    <string name="desc05">Tracks fitness, heart rate, and sleep while offering GPS and smartphone notifications on your wrist.</string>
+    <string name="desc06">Self-cleans with UV light technology to keep your water fresh and bottle hygienic at all times.</string>
+    <string name="desc07">Print photos wirelessly from your phone with this compact, portable mini photo printer.</string>
+    <string name="desc08">Noise-cancelling headphones with 40-hour battery life for immersive sound on the go.</string>
+    <string name="desc09">Waterproof and dust-proof Bluetooth speaker perfect for indoor and outdoor use.</string>
+    <string name="desc10">A blackout eye mask with gentle vibrations to help you fall asleep faster and stay rested.</string>
+    <string name="desc11">Track lost items like keys, wallets, and bags using these tiny location tags with iPhone integration.</string>
+    <string name="desc12">Wakes you naturally with simulated sunrise and includes relaxing sounds and dimming features.</string>
+    <string name="desc13">Write, scan, and reuse this digital notebook that wipes clean with just a damp cloth.</string>
+    <string name="desc14">A slim, quiet robot vacuum that automatically cleans your floors and returns to charge itself.</string>
+    <string name="desc15">A reusable, windproof electric lighter ideal for BBQs, candles, and camping trips.</string>
+    <string name="desc16">All-in-one travel adapter with multiple ports and global plug compatibility for international trips.</string>
+    <string name="desc17">Stay warm in cold weather with these rechargeable hand warmers that last up to 8 hours.</string>
+
+</resources>
