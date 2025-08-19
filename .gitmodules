@@ -1,3 +1,6 @@
 [submodule "Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app"]
 	path = Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app
 	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-reply-app.git
+[submodule "Unit4/Pathway3/basic-android-kotlin-compose-training-sports"]
+	path = Unit4/Pathway3/basic-android-kotlin-compose-training-sports
+	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-sports.git
