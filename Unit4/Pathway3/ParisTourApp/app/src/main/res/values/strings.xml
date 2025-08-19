@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Paris Tour App</string>
+    <string name="recommendation_page">Recommendation Page</string>
+    <string name="detail_page">Detail Page</string>
+    <string name="recommendation_detail_page">RecommendationDetail Page</string>
+    <string name="back_button">Back Button</string>
+    <string name="app_title">%1$s | %2$s</string>
+
+    <string name="coffee_category">Coffee Shops</string>
+    <string name="park_category">Parks</string>
+    <string name="places_must_see_category">Places Must See</string>
+    <string name="restaurant_category">Restaurants</string>
+    <string name="shopping_center_category">Shopping Centers</string>
+
+
+    <string name="coffee_shop_name_1">Le Peloton CafÃ©</string>
+    <string name="coffee_shop_name_2">Bleu Olive</string>
+    <string name="coffee_shop_name_3">Coutume (Babylone)</string>
+    <string name="coffee_shop_name_4">CafÃ© MÃ©ricourt</string>
+    <string name="coffee_shop_name_5">KB Coffee Roasters</string>
+    <string name="coffee_shop_name_6">Early Bird</string>
+    <string name="coffee_shop_name_7">The Beans on Fire</string>
+
+    <string name="coffee_shop_desc_1">A beloved coffee shop focused on community and cycling. Rent their famous yellow bikes to explore Paris while enjoying great coffee. Located at 17 Rue du Pont-Louis Philippe, 75004.</string>
+    <string name="coffee_shop_desc_2">Charming family-run coffee shop near Rue Cler, perfect for gathering strength before exploring to the Eiffel Tower. Small but excellent spot at 184 Rue de Grenelle, 75007.</string>
+    <string name="coffee_shop_desc_3">The Godfather of Paris coffee scene, roasting their own beans with fantastic quality. Worth the trip across the Seine. Located at 47 Rue de Babylone, 75007.</string>
+    <string name="coffee_shop_desc_4">Favorite cafe in the 11th arrondissement, run by Guy Griffin. Offers killer coffee and brunch in a beautiful setting. Located at 22 Rue de la Folie MÃ©ricourt.</string>
+    <string name="coffee_shop_desc_5">Top spot for people-watching with one of Paris best terraces on Rue des Martyrs. Also has another location Back in Black. Located at 53 Avenue Trudaine, 75009.</string>
+    <string name="coffee_shop_desc_6">Offers variety from espresso to drip coffee, also a roaster with fresh ground scent. Located in covered Aligre markets. Found at MarchÃ© Beauvau, Pl. d\'Aligre, 75012.</string>
+    <string name="coffee_shop_desc_7">Successful duo with locations in 11th and Montmartre. Known for best coffee and fantastic pastries. Locations at 7 Rue du GÃ©nÃ©ral Blaise, 75011 and 61 Rue des Trois FrÃ¨res, 75018.</string>
+
+
+    <string name="restaurant_name_1">Pristine Bistrot</string>
+    <string name="restaurant_name_2">Le Jules Verne</string>
+    <string name="restaurant_name_3">Au Pied de Cochon</string>
+    <string name="restaurant_name_4">Louvre Ripaille</string>
+    <string name="restaurant_name_5">Restaurant LE Drugstore</string>
+    <string name="restaurant_name_6">SphÃ¨re</string>
+    <string name="restaurant_name_7">Restaurant L\'Ange 20</string>
+    <string name="restaurant_name_8">Pink Mamma</string>
+
+    <string name="restaurant_desc_1">Located in the 9th district near Paroisse Notre-Dame de Lorette, this bistrot offers local fare for sharing with exceptional presentation. Known for delicious mushroom tartlet with hazelnuts, mushrooms, and Tonka beans. Open daily 12:00 pm to 2:00 pm and 7:00 pm to 11:00 pm. Address: 8 Rue de Maubeuge, 75009 Paris.</string>
+    <string name="restaurant_desc_2">Michelin-starred restaurant on the second floor of the Eiffel Tower offering unmatched Paris skyline views. Features exceptional mushroom tortellini with umami-rich mushrooms, hazelnut oil consommÃ©, and veloutÃ©. Private elevator access to sophisticated dining room. Open daily 12:00 pm to 1:30 pm and 7:00 pm to 9:00 pm. Address: Avenue Gustave Eiffel 2Ã¨me, Eiffel Tower, Av. Anatole France, 75007 Paris.</string>
+    <string name="restaurant_desc_3">Classic Parisian brasserie near Bourse de Commerce with French cuisine and oceanic twist. Famous for huge seafood platters and mouthwatering mussels. Ornate interior with chandeliers and businessman clientele. Must-try roasted lobster with sweet juices, velvety texture, and bÃ©arnaise sauce. Open daily 8:00 am to 5:00 am. Address: 6 Rue CoquilliÃ¨re, 75001 Paris.</string>
+    <string name="restaurant_desc_4">Charming restaurant near the Louvre Museum featuring seasonal products and exceptional cuisine. Low-key atmosphere with red awning exterior and bar corner. Known for filet de salmon with nutty asparagus, creamy hen egg, sweet spenwood cheese, and sunflower seeds. Closed Tuesdays. Open Sunday 12:00 pm to 3:30 pm, other days 12:00 pm to 9:30 pm. Address: 1 Rue Perrault, 75001 Paris.</string>
+    <string name="restaurant_desc_5">American food with Asian twist located on Champs-ÃlysÃ©es. Cool, trendy atmosphere reminiscent of Brooklyn restaurants. Features diverse menu combining French, American, and Asian-inspired dishes. Famous for pork ribs glazed with barbecue sauce and patatas bravas. Extended hours: Mon-Thu 8:00 am to 12:00 am, Fri 8:00 am to 1:00 am, Sat 10:00 am to 1:00 am, Sun 10:00 am to 12:00 am. Address: 133 Av. des Champs-ÃlysÃ©es, 75008 Paris.</string>
+    <string name="restaurant_desc_6">High-end haute cuisine restaurant on Rue La BoÃ©tie mixing French and Asian culinary scenes. Sophisticated atmosphere with dim lighting, minimalist furniture, and shadowy tones. Offers 4-step meal combinations and wine pairings. Specializes in saddle of lamb stuffed with apricots, zucchini, dehydrated feta, and pine nut condiment. Closed Mondays. Open Tue-Sun 12:00 pm to 2:30 pm and 7:00 pm to 10:30 pm. Address: 18 Rue La BoÃ©tie, 75008 Paris.</string>
+    <string name="restaurant_desc_7">Small, amazing restaurant in Marais district near Saint Paul and Place des Vosges. Features open kitchen concept allowing diners to watch chefs at work. Decorated with old magazine covers and newspapers. Meat-heavy menu featuring homemade foie gras, terrine, and veal medallions with duroc mushroom sauce, mashed potatoes, and green beans. Closed Mon-Tue. Open Wed-Sun 12:00 pm to 2:00 pm and 6:30 pm to 10:30 pm. Address: 44 Rue des Tournelles, 75004 Paris.</string>
+    <string name="restaurant_desc_8">Italian restaurant in heart of Paris featuring garden-like atmosphere with flora throughout. Famous for truffle pasta served in large pots with complex earthy and sweet flavors. Pasta absorbs truffle flavors making it less chewy but more delicious. Open Mon-Wed 12:00 pm to 2:15 pm and 6:45 to 10:45 pm, Thu-Fri 12:00 pm to 2:15 pm and 6:45 to 11:00 pm, Sat 12:00 pm to 4:15 pm and 6:15 to 11:00 pm, Sun 12:00 pm to 4:15 pm and 6:15 pm to 10:45 pm. Address: 20bis Rue de Douai, 75009 Paris.</string>
+
+
+    <string name="park_name_1">Jardin Du Luxembourg</string>
+    <string name="park_name_2">Parc de Belleville</string>
+    <string name="park_name_3">Jardin des Tulieries</string>
+    <string name="park_name_4">Palais Royal</string>
+    <string name="park_name_5">Parc Montsouris</string>
+    <string name="park_name_6">Jardin de Reuilly-Paul Pernin</string>
+    <string name="park_name_7">Parc De Passy</string>
+    <string name="park_name_8">Places Des Voges</string>
+    <string name="park_name_9">Parc Marcel Bleustein Blanchet dit Parc de la Turlure</string>
+    <string name="park_name_10">Parc des Buttes-Chaumont</string>
+
+    <string name="park_desc_1">Absolute favorite garden and park in Paris, located near French schools. Features freshly trimmed trees, seasonal palm trees, and stunning palace views. Perfect for families, couples, and solo visitors to read, write, or listen to music. Peaceful and quintessentially Parisian atmosphere that makes visitors fall in love with the city.</string>
+    <string name="park_desc_2">Underrated park in the 20th arrondissement, away from tourist destinations. Offers stunning city views and international cuisine nearby, especially Cuban dishes. Features a funky, artsy neighborhood vibe while remaining family-friendly. Known for lovely cafÃ©s and art exhibits in the surrounding area.</string>
+    <string name="park_desc_3">Famous garden between Louvre and Place de la Concorde. Features secret duck ponds, Olympic Cauldron, and Eiffel Tower views. Popular during annual Christmas festival and summer fair with semi-seasonal carnivals. Perfect for peaceful writing sessions by the duck ponds during fall.</string>
+    <string name="park_desc_4">Lesser-known garden in the 1st arrondissement, local favorite often crowded after lunch. Features beautiful fountains and unmatched Parisian rooftop views. Perfect for people-watching in side parks with benches. Holds special memories for many visitors as their first Paris experience.</string>
+    <string name="park_desc_5">Underrated park in the 14th arrondissement, larger than Parc Monceau. Features large ponds, open green spaces, and many walking paths. Much quieter than other major Paris parks, making it an ideal getaway from the city\'s chaos and perfect for peaceful relaxation.</string>
+    <string name="park_desc_6">Underrated park attached to Paris\'s "highline" - the CoulÃ©e Verte RenÃ©-Dumont. Features a serene 3-mile walkway above Paris with stunning views. Perfect for picnics and featured in "Before Sunset" movie scenes. More peaceful local spot away from city center crowds.</string>
+    <string name="park_desc_7">Simple but charming local spot offering Eiffel Tower views from the grass or gazebo benches. Perfect for picnics, chatting with friends, or family gatherings. Walking path offers best Eiffel Tower photography spots near TrocadÃ©ro or Bir Hakim. Popular for weekend birthday parties for children.</string>
+    <string name="park_desc_8">Peaceful square surrounded by four old buildings, creating a tranquil pocket away from city chaos. Located in Le Marais neighborhood near L\'as du Fallafel and vegan bakery Land and Monkeys. Features orange coloring, four quadrants with fountains, and unique personality unmatched by other Paris parks.</string>
+    <string name="park_desc_9">Underrated park discovered while exploring Montmartre, located behind SacrÃ©-CÅur. Offers stunning views of the classic Parisian monument without front crowds. Provides a safe haven away from Montmartre\'s tourist crowds while maintaining beautiful neighborhood atmosphere and perfect photo opportunities.</string>
+    <string name="park_desc_10">Main "escape from the city" park offering a "middle of the woods" vibe unlike any other Paris park. Large with many walkways, exploration spots, and occasional SacrÃ©-CÅur views. Perfect for nature lovers seeking mental escape from Paris, providing a completely different atmosphere from the rest of the city.</string>
+
+
+    <string name="shopping_center_name_1">Galeries Lafayette Haussmann</string>
+    <string name="shopping_center_name_2">Westfield Les 4 Temps</string>
+    <string name="shopping_center_name_3">Westfield Forum des Halles</string>
+    <string name="shopping_center_name_4">Centre Commercial Saint-Lazare</string>
+    <string name="shopping_center_name_5">Bercy Village</string>
+    <string name="shopping_center_name_6">AÃ©roville</string>
+    <string name="shopping_center_name_7">Italie Deux</string>
+    <string name="shopping_center_name_8">Carrousel du Louvre</string>
+    <string name="shopping_center_name_9">So Ouest</string>
+    <string name="shopping_center_name_10">Passage du Havre</string>
+
+    <string name="shopping_center_desc_1">Iconic \'World Department Store\' established in 1894 on Boulevard Haussmann. Features over 3,500 brands across fashion, beauty, jewelry, home, and gourmet sections. Famous for striking art-deco dome and attracts 37 million visitors annually. Includes dining options, Wellness Gallerie, and rooftop terrace with panoramic city views. Open Mon-Sat 10am-8:30pm, Sun 11am-8pm.</string>
+    <string name="shopping_center_desc_2">One of Europe\'s largest shopping centers in La DÃ©fense business district. Boasts nearly 250 shops and 40 restaurants across 4 levels. Features 16-screen cinema, 3-level hypermarket, and outdoor terrace called Le Dome. Hosts special events including concerts and cooking demonstrations with Michelin-starred chefs. Open Mon-Sat 10am-8:30pm, Sun 10am-8pm.</string>
+    <string name="shopping_center_desc_3">Modern shopping complex on former Les Halles market site in Quartier des Halles. Features top brands, independent boutiques, and concept stores with unique architectural design inspired by forest canopy. Includes contemporary brasserie by Alain Ducasse, English-language cinema, swimming pool, and library. Open Mon-Sat 10am-8:30pm, Sun 11am-7pm.</string>
+    <string name="shopping_center_desc_4">Unique indoor shopping center inside busy Gare Saint-Lazare transport hub. Offers around 80 boutiques and several restaurants spanning 10,000 square meters across 3 levels. Features shoes, sunglasses, and fast-casual restaurants designed for mobile consumers. Open Mon-Fri 7:30am-8pm, Sat 9am-8pm, Sun 10am-7pm.</string>
+    <string name="shopping_center_desc_5">Charming historical shopping destination in 19th-century wine market buildings. Features white-stone storehouses, paved courtyard, and terraces in 12th arrondissement. Offers 26,000 square meters with recognizable brands, specialty shops, cinema, karaoke bar, rock-climbing center, and science museum. Open daily 10am-2am.</string>
+    <string name="shopping_center_desc_6">France\'s first geothermal shopping center powered by renewable energy. Located near Charles de Gaulle Airport in Tremblay-en-France. Spans 84,000 square meters with 200 shops, restaurants, and multiplex cinema. Features fashion, beauty, fitness brands, kids\' zone, and supermarket. Open daily 10am-8pm.</string>
+    <string name="shopping_center_desc_7">Large shopping center near Place d\'Italie with 140 shops and 50 dining establishments. Features Printemps department store and global brands across 3 levels. Offers clothing, high-tech gadgets, home decor, cafes, patisseries, and Iconik food court. Hosts festive events throughout the year. Open daily 10am-8pm.</string>
+    <string name="shopping_center_desc_8">Underground shopping center between Louvre museum and Place du Carrousel. Features glass Pyramide du Louvre views and over a dozen international cuisine eateries. Presents exhibitions like annual Paris Photo exhibit. Recognizable from \'The Da Vinci Code\' film. Open Wed-Mon 10am-7pm, Tue 11am-6pm.</string>
+    <string name="shopping_center_desc_9">Upmarket shopping center in Levallois-Perret with sleek marble interiors and leather handrails. Features local and international brands in modern setting 3.7 miles from Paris center. Includes relaxation areas and cinema. Offers diverse dining options from French to Asian cuisine. Open Mon-Sat 10am-8:30pm, closed Sundays.</string>
+    <string name="shopping_center_desc_10">Covered passage near Gare Saint-Lazare housing about 40 shops selling clothing, beauty items from local and international brands. Features garden, terrace, and casual spots for coffee or light bites. Smaller intimate shopping experience leading to Rue de Caumartin. Open Mon-Wed and Sat 9:30am-8pm, Thu-Fri 9:30am-8:30pm, Sun 11am-7pm.</string>
+
+
+    <string name="must_see_name_1">Eiffel Tower (Tour Eiffel)</string>
+    <string name="must_see_name_2">Louvre Museum (MusÃ©e du Louvre)</string>
+    <string name="must_see_name_3">Versailles Palace</string>
+    <string name="must_see_name_4">Latin Quarter (Quartier Latin)</string>
+    <string name="must_see_name_5">Seine River</string>
+    <string name="must_see_name_6">Notre Dame (CathÃ©drale Notre-Dame de Paris)</string>
+    <string name="must_see_name_7">Montmartre and SacrÃ© Coeur</string>
+    <string name="must_see_name_8">MusÃ©e d\'Orsay</string>
+    <string name="must_see_name_9">Arc de Triomphe</string>
+    <string name="must_see_name_10">Pompidou Center (Centre Pompidou)</string>
+
+    <string name="must_see_desc_1">Paris\'s most iconic landmark symbolizing the city with spectacular views from three levels. Features restaurants, champagne bar, seasonal ice skating rink, and transparent floor views. Skip-the-line tickets recommended to avoid 4+ hour waits. Can be viewed from Seine River cruises or guided bike tours for lifetime memories.</string>
+    <string name="must_see_desc_2">World\'s most visited museum with over 10 million annual visitors. Houses famous masterpieces including Mona Lisa, Venus de Milo, and Winged Victory of Samothrace. Features Egyptian collection with mummies, European paintings, furniture, tapestries, crown jewels, and Napoleon III\'s sumptuous apartments. Outside features I.M. Pei\'s glass pyramids contrasting Renaissance architecture.</string>
+    <string name="must_see_desc_3">Largest royal palace in the world with 700+ rooms. Showcases royal life from Louis XIV to Marie-Antoinette with glittering Hall of Mirrors and priceless art. Features magnificent gardens with statues, fountains, and walking paths. Most visited palace in France requiring skip-the-line tickets or guided tours to avoid 2-4 hour security waits.</string>
+    <string name="must_see_desc_4">Historic Left Bank neighborhood settled by Romans in 1st century. Features medieval streets, Hemingway\'s old haunts, Pantheon tombs, and Lady and the Unicorn tapestries. Explore narrow streets with bookstores, bistros, boutiques, old churches, Roman arena ruins, and Grand Mosque tea room with Tunisian pastries.</string>
+    <string name="must_see_desc_5">Central river defining Paris\'s Right and Left Banks with Ãle de la CitÃ© historical heart. Enjoy bouquinistes booksellers, Parc Rives de Seine green spaces, Seine River cruises, Batobus hopping, river-side dining, and floating swimming pools. Features Paris Plages summer beach transformation and connects to Canal Saint-Martin.</string>
+    <string name="must_see_desc_6">Medieval Gothic cathedral on Ãle de la CitÃ© overlooking Seine River. Recently restored after 2019 fire, featuring statues, sculptures, stained glass windows, and soaring arches. Future roof access for gargoyle views. Best viewed from Left Bank with free advance reservation tickets required for entry.</string>
+    <string name="must_see_desc_7">Former village with winding lanes and picturesque hillsides. Home to white Basilica of SacrÃ© Coeur visible citywide. Features artists\' historic haunts, small museums, parks, pedestrian lanes, old windmills, and October harvest festival. Miss the tourist crowds to discover authentic neighborhood charm.</string>
+    <string name="must_see_desc_8">Former train station housing magnificent Impressionist and Post-Impressionist collection. Features masterpieces by Monet, Renoir, CÃ©zanne, Gauguin, and Van Gogh\'s Starry Night. Popular rooftop terrace offers sweeping Paris views. Winter guided tours recommended to avoid massive crowds around famous paintings.</string>
+    <string name="must_see_desc_9">Massive triumphal arch commissioned by Napoleon honoring military victories. Located at busy traffic rotary where 12 major streets converge including Champs ÃlysÃ©es. Features observation deck, Tomb of Unknown Soldier, eternal flame, and elaborate battle sculptures. Best viewed first Sunday monthly when Champs ÃlysÃ©es is car-free.</string>
+    <string name="must_see_desc_10">Edgy contemporary art museum in building with colorful exterior tubes and exposed mechanics. Features revolving exhibitions of contemporary paintings, sculptures, video installations. Includes rooftop deck, reflecting pool, restaurant, and Stravinsky Fountain with musical water sculptures. Closing for 5 years of repairs expected fall 2025.</string>
+
+</resources>
