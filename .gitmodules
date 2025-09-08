@@ -10,3 +10,6 @@
 [submodule "Unit5/Pathway2/basic-android-kotlin-compose-training-mars-photos"]
 	path = Unit5/Pathway2/basic-android-kotlin-compose-training-mars-photos
 	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-mars-photos.git
+[submodule "Unit5/Pathway2/basic-android-kotlin-compose-training-amphibians"]
+	path = Unit5/Pathway2/basic-android-kotlin-compose-training-amphibians
+	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-amphibians.git
