@@ -13,3 +13,6 @@
 [submodule "Unit5/Pathway2/basic-android-kotlin-compose-training-amphibians"]
 	path = Unit5/Pathway2/basic-android-kotlin-compose-training-amphibians
 	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-amphibians.git
+[submodule "Unit6/Pathway1/android-basics-kotlin-sql-basics-app"]
+	path = Unit6/Pathway1/android-basics-kotlin-sql-basics-app
+	url = https://github.com/google-developer-training/android-basics-kotlin-sql-basics-app.git
