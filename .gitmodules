@@ -16,3 +16,6 @@
 [submodule "Unit6/Pathway1/android-basics-kotlin-sql-basics-app"]
 	path = Unit6/Pathway1/android-basics-kotlin-sql-basics-app
 	url = https://github.com/google-developer-training/android-basics-kotlin-sql-basics-app.git
+[submodule "Unit6/Pathway2/basic-android-kotlin-compose-training-inventory-app"]
+	path = Unit6/Pathway2/basic-android-kotlin-compose-training-inventory-app
+	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-inventory-app.git
