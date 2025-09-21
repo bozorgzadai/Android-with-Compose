@@ -19,3 +19,6 @@
 [submodule "Unit6/Pathway2/basic-android-kotlin-compose-training-inventory-app"]
 	path = Unit6/Pathway2/basic-android-kotlin-compose-training-inventory-app
 	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-inventory-app.git
+[submodule "Unit6/Pathway2/basic-android-kotlin-compose-training-bus-schedule-app"]
+	path = Unit6/Pathway2/basic-android-kotlin-compose-training-bus-schedule-app
+	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-bus-schedule-app.git
