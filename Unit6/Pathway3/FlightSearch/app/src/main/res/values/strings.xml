@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flight Search</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="enter_departure_airport">Enter Departure Airport</string>
+    <string name="depart">DEPART</string>
+    <string name="arrive">ARRIVE</string>
+    <string name="star">star</string>
+    <string name="flights_from">Flights From %1$s</string>
+    <string name="favorite_routes">Favorite Routes</string>
+</resources>

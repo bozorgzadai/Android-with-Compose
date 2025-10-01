@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="search_rounded_corner">28dp</dimen>
+    <dimen name="star_size">40dp</dimen>
+    <dimen name="card_corner_radius">16dp</dimen>
+</resources>
