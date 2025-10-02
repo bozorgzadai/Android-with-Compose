@@ -25,3 +25,6 @@
 [submodule "Unit6/Pathway3/basic-android-kotlin-compose-training-dessert-release"]
 	path = Unit6/Pathway3/basic-android-kotlin-compose-training-dessert-release
 	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-dessert-release.git
+[submodule "Unit7/Pathway1/basic-android-kotlin-compose-training-workmanager"]
+	path = Unit7/Pathway1/basic-android-kotlin-compose-training-workmanager
+	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-workmanager.git
