@@ -28,3 +28,6 @@
 [submodule "Unit7/Pathway1/basic-android-kotlin-compose-training-workmanager"]
 	path = Unit7/Pathway1/basic-android-kotlin-compose-training-workmanager
 	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-workmanager.git
+[submodule "Unit7/Pathway1/basic-android-kotlin-compose-training-waterme"]
+	path = Unit7/Pathway1/basic-android-kotlin-compose-training-waterme
+	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-waterme.git
