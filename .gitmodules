@@ -34,3 +34,6 @@
 [submodule "Unit8/Pathway1/basic-android-kotlin-compose-training-juice-tracker"]
 	path = Unit8/Pathway1/basic-android-kotlin-compose-training-juice-tracker
 	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-juice-tracker.git
+[submodule "Unit8/Pathway2/basic-android-kotlin-compose-training-juice-tracker"]
+	path = Unit8/Pathway2/basic-android-kotlin-compose-training-juice-tracker
+	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-juice-tracker.git
