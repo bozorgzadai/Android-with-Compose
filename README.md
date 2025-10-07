@@ -35,7 +35,7 @@ This is a self-paced, online course designed to teach the fundamentals of buildi
 
 ## Each Unit Learning with Apps Screenshots
 
-*   **Unit 1:** Covers Kotlin programming fundamentals, Android Studio setup, and building a basic Android app with a simple Jetpack Compose UI that displays text and images.\
+*   **Unit 1:** Covers Kotlin programming fundamentals and building a basic Android app with a simple Jetpack Compose UI that displays text and images.\
 **Apps Name:** HappyBirthday, ComposeQuadrant, ComposeArticle, BusinessCard
 <p align="center">
   <img src="Screenshots/HappyBirthday_1.png" width="200"/>
@@ -45,7 +45,7 @@ This is a self-paced, online course designed to teach the fundamentals of buildi
 </p>
 
 
-*   **Unit 2:** Dives into Kotlin fundamentals (conditionals, functions, classes, and *lambdas*) and explores building interactive UIs with *Jetpack Compose*, handling user input, managing state, and writing unit tests.\
+*   **Unit 2:** Dives into Kotlin fundamentals (*conditionals*, *functions*, *classes*, and *lambdas*) and explores building interactive UIs with *Jetpack Compose*, handling user input, managing state, and writing unit tests.\
 **Apps Name:** Lemonade, DiceRoller, TipCalculator, ArtSpace
 <p align="center">
   <img src="Screenshots/Lemonade_1.png" width="200"/>
