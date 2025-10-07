@@ -1,4 +1,4 @@
-# Google Android with Compose
+# Google Android Compose
 
 This repository contains my progress and projects completed as part of the [Google Android with Compose](https://developer.android.com/courses/android-basics-compose/course) course.
 
